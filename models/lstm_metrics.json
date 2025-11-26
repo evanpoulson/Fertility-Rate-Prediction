@@ -1,0 +1,31 @@
+{
+  "train": {
+    "rmse": 0.6989602435836527,
+    "mae": 0.5398457830483432,
+    "r2": 0.8747548962567209
+  },
+  "val": {
+    "rmse": 0.7236759211453985,
+    "mae": 0.522459922097026,
+    "r2": 0.7017430787476846
+  },
+  "test": {
+    "rmse": 0.7485040868378193,
+    "mae": 0.5713109196807932,
+    "r2": 0.6125224446055586
+  },
+  "model_config": {
+    "lstm_units": [
+      64,
+      32
+    ],
+    "dropout_rate": 0.3,
+    "recurrent_dropout_rate": 0.15,
+    "sequence_length": 5,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "total_epochs": 52,
+    "best_epoch": 27
+  }
+}

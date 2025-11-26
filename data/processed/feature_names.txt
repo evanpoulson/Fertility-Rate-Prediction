@@ -1,0 +1,29 @@
+Maternal mortality ratio (per 100,000 live births)
+Urban population over total population
+Capital GDP in USD
+InfantMortality
+LifeExpectancy
+InfantMortality_lag3
+LifeExpectancy_lag3
+Urban population over total population_lag3
+Maternal mortality ratio (per 100,000 live births)_lag3
+Capital GDP in USD_lag3
+InfantMortality_pct_change
+LifeExpectancy_pct_change
+Urban population over total population_pct_change
+Maternal mortality ratio (per 100,000 live births)_pct_change
+Capital GDP in USD_pct_change
+HealthcareQuality_Index
+Urban_GDP_Interaction
+Era_1980-1999
+Era_2000-2019
+Era_2020+
+Development_Level_Low Income
+Development_Level_Lower Middle Income
+Development_Level_Upper Middle Income
+Decade_1970
+Decade_1980
+Decade_1990
+Decade_2000
+Decade_2010
+Decade_2020

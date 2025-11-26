@@ -1,0 +1,13 @@
+{
+  "sequence_length": 5,
+  "train_years": "1963-2010",
+  "val_years": "2011-2017",
+  "test_years": "2018-2023",
+  "n_features": 29,
+  "train_samples": 10384,
+  "val_samples": 1519,
+  "test_samples": 1302,
+  "train_sequences": 9299,
+  "val_sequences": 434,
+  "test_sequences": 217
+}

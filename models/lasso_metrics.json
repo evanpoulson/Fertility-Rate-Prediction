@@ -1,0 +1,19 @@
+{
+  "train": {
+    "rmse": 1.117832587549516,
+    "mae": 0.8676304444655948,
+    "r2": 0.6818964667324288
+  },
+  "test": {
+    "rmse": 1.1196151429289316,
+    "mae": 0.8692777961652143,
+    "r2": 0.694724599419507
+  },
+  "model_config": {
+    "regularization": "L1 (Lasso)",
+    "best_alpha": 0.00701703828670383,
+    "num_input_features": 6,
+    "non_zero_coefficients": 5,
+    "zeroed_coefficients": 1
+  }
+}
